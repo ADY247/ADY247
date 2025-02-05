@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Dolapo Aderoju  
-🚀 **SRE | DevOps | Cloud Automation**  
+🚀 **Full Stack Dev | SRE | LLMOPS**  
 
-💡 **Expert in:** AWS, Terraform, Github Actions, CI/CD, Monitoring  
-⚡ **Skills:** Python, PowerShell, Docker, Kubernetes  
-🛠️ **Projects:** Infra automation, CI/CD pipelines, cloud monitoring  
-🎯 **Learning:** AI-driven automation, Kubernetes scaling, sustainability  
-
+💡 **Expert in:** Cloud Infra, IAC, CI/CD, SAAS  
+⚡ **Skills:** Python, Javascript, CSS, Docker, Kubernetes  
+🛠️ **Projects:** Building SAAS 
+🎯 **Learning:** AI-driven automation, LLMOPS
 ## 📬 **Let's Connect!**  
 💼 [LinkedIn](https://linkedin.com/in/dolapoaderoju) | 💻 [GitHub](https://github.com/ADY247) | ✉️ dolapoaderoju@outlook.com  
 
