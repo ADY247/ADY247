@@ -5,9 +5,9 @@
 ⚡ **Skills:** Python, Javascript, CSS, Docker, Kubernetes  
 🛠️ **Projects:** Building SAAS 
 🎯 **Learning:** AI-driven automation, LLMOPS
-## 📬 **Let's Connect!**  
+📬 **Let's Connect!**  
 💼 [LinkedIn](https://linkedin.com/in/dolapoaderoju) | 💻 [GitHub](https://github.com/ADY247) | ✉️ dolapoaderoju@outlook.com  
 
 
 ---
-**"Building resilient systems, automating workflows, and pushing innovation one commit at a time."** 🚀
+**"pushing innovation one commit at a time."** 🚀
