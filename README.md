@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ADY247
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Dolapo Aderoju  
+🚀 **SRE | DevOps | Cloud Automation**  
 
-<!---
-ADY247/ADY247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Expert in:** AWS, Terraform, Github Actions, CI/CD, Monitoring  
+⚡ **Skills:** Python, PowerShell, Docker, Kubernetes  
+🛠️ **Projects:** Infra automation, CI/CD pipelines, cloud monitoring  
+🎯 **Learning:** AI-driven automation, Kubernetes scaling, sustainability  
+
+## 📬 **Let's Connect!**  
+💼 [LinkedIn](https://linkedin.com/in/dolapoaderoju) | 💻 [GitHub](https://github.com/ADY247) | ✉️ dolapoaderoju@outlook.com  
+
+
+---
+**"Building resilient systems, automating workflows, and pushing innovation one commit at a time."** 🚀
