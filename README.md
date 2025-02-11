@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dolapo Aderoju  
 🚀 **Full Stack Dev | SRE | LLMOPS**  
 
-💡 **Expert in:** Cloud Infra, IAC, CI/CD, SAAS  
+💡 **Expert in:** Software and Cloud Infrastructure.
 ⚡ **Skills:** Python, Javascript, CSS, Docker, Kubernetes  
 🛠️ **Projects:** Building SAAS 
 🎯 **Learning:** AI-driven automation, LLMOPS
