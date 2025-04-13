@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Dolapo Aderoju  
-🚀 **Software Architect
 
 💡 **Expert in:** Software and Cloud Infrastructure. 
 🛠️ **Projects:** Building SAAS 
